@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecomerce-ShoeBrand/static/css/main.892f8c7e.css",
+    "main.js": "/Ecomerce-ShoeBrand/static/js/main.0b72c791.js",
+    "static/js/787.0fe84981.chunk.js": "/Ecomerce-ShoeBrand/static/js/787.0fe84981.chunk.js",
+    "index.html": "/Ecomerce-ShoeBrand/index.html",
+    "main.892f8c7e.css.map": "/Ecomerce-ShoeBrand/static/css/main.892f8c7e.css.map",
+    "main.0b72c791.js.map": "/Ecomerce-ShoeBrand/static/js/main.0b72c791.js.map",
+    "787.0fe84981.chunk.js.map": "/Ecomerce-ShoeBrand/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892f8c7e.css",
+    "static/js/main.0b72c791.js"
+  ]
+}

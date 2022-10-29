@@ -1,0 +1,20 @@
+.itemCountContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemCountContainer div {
+  display: flex;
+}
+
+.itemCountContainer button {
+  padding: 5px;
+  margin: 5px;
+}
+
+.itemCountContainer h5 {
+  margin: 8px;
+}
+
