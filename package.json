@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://agusdlopez21.github.io/Ecomerce-ShoeBrand/",
+  "homepage": "https://agusdlopez21.github.io/ecommerce-react/",
   "eslintConfig": {
     "extends": [
       "react-app",

@@ -16,7 +16,7 @@ function App() {
       createAllProducts()
     }, []); */
     return (
-      <BrowserRouter basename='/Ecomerce-ShoeBrand'>
+      <BrowserRouter basename='/ecommerce-react'>
         <CartProvider>
           <NavBar />
             <Routes>
