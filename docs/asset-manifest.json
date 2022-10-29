@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ecomerce-ShoeBrand/static/css/main.892f8c7e.css",
-    "main.js": "/Ecomerce-ShoeBrand/static/js/main.0b72c791.js",
-    "static/js/787.0fe84981.chunk.js": "/Ecomerce-ShoeBrand/static/js/787.0fe84981.chunk.js",
-    "index.html": "/Ecomerce-ShoeBrand/index.html",
-    "main.892f8c7e.css.map": "/Ecomerce-ShoeBrand/static/css/main.892f8c7e.css.map",
-    "main.0b72c791.js.map": "/Ecomerce-ShoeBrand/static/js/main.0b72c791.js.map",
-    "787.0fe84981.chunk.js.map": "/Ecomerce-ShoeBrand/static/js/787.0fe84981.chunk.js.map"
+    "main.css": "/ecommerce-react/static/css/main.cdc9e3d1.css",
+    "main.js": "/ecommerce-react/static/js/main.689cee80.js",
+    "static/js/787.0fe84981.chunk.js": "/ecommerce-react/static/js/787.0fe84981.chunk.js",
+    "index.html": "/ecommerce-react/index.html",
+    "main.cdc9e3d1.css.map": "/ecommerce-react/static/css/main.cdc9e3d1.css.map",
+    "main.689cee80.js.map": "/ecommerce-react/static/js/main.689cee80.js.map",
+    "787.0fe84981.chunk.js.map": "/ecommerce-react/static/js/787.0fe84981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.892f8c7e.css",
-    "static/js/main.0b72c791.js"
+    "static/css/main.cdc9e3d1.css",
+    "static/js/main.689cee80.js"
   ]
 }
